@@ -15,11 +15,12 @@ body{
     /* -webkit-backdrop-filter: blur(5px); */
     /* backdrop-filter: blur(5px); */
     display: flex;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid blue;
     width: 100%;
   height: 80px;
   background-color: var(--secondary);
 transition:1.1s ease;
+
 }
 
 .col-lg-9{
